@@ -4,6 +4,10 @@
 This is a small script simulate a real hack.
 > This script is harmless as you can't use it to hack, steal people's information.
 
+# Requirements:
+- A Linux machine.
+- A functioning brain.
+- Knowledge in bash script.
 # How to run
 1. Use any text editor.
 2. At line:
