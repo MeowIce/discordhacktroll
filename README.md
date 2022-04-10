@@ -1,4 +1,4 @@
-# Discord troll script
+# Discord hack troll script
 ## A bash script to troll your friends on Discord.
 
 This is a small script simulate a real hack.
@@ -9,8 +9,13 @@ This is a small script simulate a real hack.
 - A functioning brain.
 - Knowledge in bash script.
 # How to run
-1. Use any text editor.
-2. At line:
+1. Clone this repo:
+```
+mkdir discordGetInfo
+git clone https://github.com/MeowIce/discordhacktroll.git
+```
+2. Use any text editor.
+3. At line:
 ```
 # Data for trolling (MUST HAVE):
 DUsr='MeowIce#8543' # Enter his nametag (EX: MeowIce#8543)
@@ -23,7 +28,7 @@ UsrStt='offline' # online, dnd, idle, offline
 ```
 Edit them to your liking.
 
-3. Chmod then run the script.
+4. Chmod then run the script.
 ```
 chmod +x ./discordGetInfo.sh
 ./discordGetInfo.sh
