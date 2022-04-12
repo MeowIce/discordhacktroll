@@ -42,6 +42,6 @@ chmod +x ./discordGetInfo.sh
 ![gif](https://user-images.githubusercontent.com/70711319/162619221-011a3e9a-6e4d-4641-8f9e-1e63c5dacd9f.gif)
 
 # Note:
-- This script will write a small file at `/home<your username>/discordGetInfo/<userID>.log`.
+- This script will write a small file at `/home/<your username>/discordGetInfo/<userID>.log`.
 - This script is harmless. It has no fuction except to troll your friends via screenshot or screenshare.
 - Also [join my Discord server](https://discord.gg/YHsw9aDzG5)
